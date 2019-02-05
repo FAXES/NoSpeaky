@@ -5,13 +5,6 @@ So. What does this one do FAXES? Well kids, this lets you use /mute (or whatever
 
 ## [Discord](http://faxes.zone/discord)
 
-[details="In the Download"]
-> __resource.lua
-     client.lua
-     server.lua
-     License.md
-[/details]
-
 <hr>
 
 **Features**
